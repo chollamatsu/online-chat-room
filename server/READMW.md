@@ -1,0 +1,4 @@
+# run application
+```
+npm start
+```
